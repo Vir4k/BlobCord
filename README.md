@@ -6,8 +6,6 @@ BlobCord is a Multipurpose bot that suits all your needs. BlobCord offers Modera
 
 <h1>BlobCord (Official)</h1>
 
------
-
 ## Features
 
   * Animation.
@@ -16,11 +14,7 @@ BlobCord is a Multipurpose bot that suits all your needs. BlobCord offers Modera
   * Moderations.
   * Economy Systems.
 
------
-
 **BlobCord is still under Development, however it's realeased to the public use.**
-
------
 
 ## 1. General.
 #### this category contains commands which retrieve info about things related to the command's own name, such as `userinfo`, `serverinfo`, `info` and more.
