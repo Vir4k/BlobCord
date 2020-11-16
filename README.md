@@ -1,10 +1,10 @@
+<h1>BlobCord (Official)</h1>
+
 ## About
 
 BlobCord is a Multipurpose bot that suits all your needs. BlobCord offers Moderation, Fun, Administration, Information commands to know more about people in your server and information about your server, and lastly, BlobCord guarantees you satisfaction. Invite BlobCord!
 
 **BlobCord is still under development, how it's realeased to the public use.**
-
-<h1>BlobCord (Official)</h1>
 
 ## Features
 
