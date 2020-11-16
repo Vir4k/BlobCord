@@ -3,7 +3,7 @@
 <div>
 
   <a href="https://discord.gg/AC6cECc9H5">
-    <img src="https://discordapp.com/api/guilds/736137787274821684/widget.png?style=shield" alt="shield.png">
+    <img src="https://discord.com/api/guilds/736137787274821684/widget.png?style=shield" alt="shield.png">
   </a>
 
   <a href="https://github.com/discordjs">
