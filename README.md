@@ -1,11 +1,7 @@
 <h1>BlobCord (Official)</h1>
 
 <div>
-
-  <a href="https://discord.gg/AC6cECc9H5">
-    <img src="https://discord.com/api/guilds/736137787274821684/widget.png?style=shield" alt="shield.png">
-  </a>
-
+  
   <a href="https://github.com/discordjs">
     <img src="https://img.shields.io/badge/discord.js-v12.4.0-blue.svg?logo=npm" alt="shield.png">
   </a>
