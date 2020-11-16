@@ -34,5 +34,5 @@ Want to support? Vote for BlobCord [here](https://top.gg/bot/727448017799479296/
 
 ## Developer / Team
 
-**Virak** - *Main Developer & Owner*
-**Greblue** - *Main Developer*
+* **Virak** - *Main Developer & Owner*
+* **Greblue** - *Main Developer*
