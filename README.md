@@ -30,13 +30,13 @@ BlobCord is a Multipurpose bot that suits all your needs. BlobCord offers Modera
 -----
 
 # Status
+
 <div>
   
   <a href="https://github.com/discordjs">
     <img src="https://img.shields.io/badge/discord.js-v12.4.0-blue.svg?logo=npm" alt="shield.png">
   </a>
-
-# Status 
+ 
 [![Discord Bots](https://top.gg/api/widget/status/727448017799479296.svg)](https://top.gg/bot/727448017799479296)
 [![Discord Bots](https://top.gg/api/widget/servers/727448017799479296.svg)](https://top.gg/bot/727448017799479296)
 [![Discord Bots](https://top.gg/api/widget/upvotes/727448017799479296.svg)](https://top.gg/bot/727448017799479296)
